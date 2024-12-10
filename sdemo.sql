@@ -1,4 +1,4 @@
 -- Create snowpark procedure
 begin 
-return 'hellllo snow1';
+return 'helo snow1';
 end;
