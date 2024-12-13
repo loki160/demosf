@@ -1,5 +1,5 @@
  DECLARE
-        counter INTEGER;
+        counter INTEGER:=1 ;
     BEGIN
         counter := 0;
         LOOP
